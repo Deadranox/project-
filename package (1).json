@@ -1,0 +1,9 @@
+{
+  "name": "safefind-ai",
+  "version": "1.0.0",
+  "private": true,
+  "description": "SafeFind-AI multilingual police operations network",
+  "scripts": {
+    "start": "node server.js"
+  }
+}

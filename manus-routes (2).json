@@ -1,0 +1,26 @@
+{
+  "routes": [
+    {"path":"/","title":"SafeFind-AI Home"},
+    {"path":"/login/police","title":"Police Command Login"},
+    {"path":"/login/hospital","title":"Hospital Desk Login"},
+    {"path":"/login/hotel","title":"Hotel Reception Login"},
+    {"path":"/login/transport","title":"Transport Hub Login"},
+    {"path":"/login/citizen","title":"Citizen Portal Login"},
+    {"path":"/app/ops","title":"Police Operations"},
+    {"path":"/app/command","title":"Command Center"},
+    {"path":"/app/scanner","title":"Scanner Studio"},
+    {"path":"/app/registry","title":"Case Registry"},
+    {"path":"/app/alerts","title":"Alert Inbox"},
+    {"path":"/app/coverage","title":"Coverage Analytics"},
+    {"path":"/app/settings","title":"Settings"},
+    {"path":"/app/case/:id","title":"Case Detail"},
+    {"path":"/app/alert/:id","title":"Alert Detail"},
+    {"path":"/app/desk","title":"Admission Desk"},
+    {"path":"/app/log","title":"Partner Log"},
+    {"path":"/app/check","title":"Guest ID Check"},
+    {"path":"/app/console","title":"Station Console"},
+    {"path":"/app/posters","title":"Missing Posters"},
+    {"path":"/app/report","title":"Report Sighting"},
+    {"path":"/app/track","title":"Track Report"}
+  ]
+}
